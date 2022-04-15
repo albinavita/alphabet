@@ -216,6 +216,7 @@ public class Alphabet {
         int val1 =   a + b + c + d + e + f + g + h + i + j + k + l;
         int val2 = m + n + o + p + q + r + s + t + u + v +  w + x + y + z;
         sum = val1 + val2;
+        System.out.println();
         return sum;
     }
     public void setSum(int sum) {
